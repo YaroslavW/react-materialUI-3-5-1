@@ -5,7 +5,7 @@ import RightPanel from './RightPanel'
 
 const styles={
   Paper:{
-    padding: 20,
+    padding: 40,
     marginTop: 20,
     marginBottom: 20
   },

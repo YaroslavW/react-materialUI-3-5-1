@@ -4,10 +4,10 @@ import Exercises from './Exercises'
 
 export default class App extends Component {
   render(){
-    return <Fragment>
-    <Header />
-    <Exercises />
-    <Footer />
-    </Fragment>
+		  return  <Fragment>
+						    <Header />
+						    <Exercises />
+						    <Footer />
+					    </Fragment>
   }
 }
